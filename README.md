@@ -72,3 +72,10 @@ The project includes clear and informative visualizations such as:
 **Hamiz Ansari**
 - **GitHub:** [github.com/hamiz-21-7-06](https://github.com/hamiz-21-7-06)
 - **Email:** [hamizansari06@gmail.com](mailto:hamizansari06@gmail.com)
+
+---
+
+## 🌟 Feedback & Support
+
+Feel free to share suggestions or compliments — your feedback is appreciated!  
+If you found this project useful, please consider giving it a ⭐️.
